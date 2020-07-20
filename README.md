@@ -1,1 +1,2 @@
-# projecti
+ # PROJECTI README #
+ initial commit
